@@ -42,9 +42,13 @@ public class RemoveUnbalancedParentheses {
             }
         }
         StringBuilder sb = new StringBuilder();
+        //sb.append(1+"c");
+        sb.append(1+'a');
+        System.out.println(sb);
         for (int i = 0; i < ch.length; i++) {
             if (ch[i]!='.') {
                 sb.append(ch[i]);
+
             }
         }
         s = sb.toString();
