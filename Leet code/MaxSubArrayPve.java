@@ -1,4 +1,4 @@
-public class MaxSubArray {
+public class MaxSubArrayPve {
 
     public static void main(String[] args) {
         int[] a = {-11, 11, 15, -1, 30,-2};
